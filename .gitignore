@@ -1,0 +1,14 @@
+Python
+pycache/
+*.pyc
+
+Data
+data/raw/
+data/processed/
+data/external/
+
+Jupyter
+.ipynb_checkpoints/
+
+OS
+.DS_Store
